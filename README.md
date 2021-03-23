@@ -1,1 +1,1 @@
-# calculadora-simples
+# Calculadora simples que fiz com a função eval() do js
